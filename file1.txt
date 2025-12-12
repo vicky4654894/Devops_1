@@ -5,6 +5,28 @@ Learning Git and Github
 
 
 
+<<<<<<< HEAD
+add some comments in main branch
+
+
+
+third branch
+third branch
+third branch
+third branch
+third branch
+third branch
+third branch
+third branch
+third branch
+third branch
+third branch
+third branch
+third branch
+third branch
+third branch
+third branch
+=======
 
 
 
@@ -31,3 +53,4 @@ Learning Git and Github
 
 
 fsvsavsvsavsvd
+>>>>>>> main
