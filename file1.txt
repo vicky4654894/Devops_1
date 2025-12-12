@@ -2,12 +2,10 @@ Learning Git and Github
 
 1. Learnig Git with hands-on-experience ---> third commit changes
 
-2. Learnig Azure Devops --> main branch
-
-2. Learnig Lines with hands on experience ---> fouth commit changes(1st commit of secondBracnh)
 
 
 
+<<<<<<< HEAD
 add some comments in main branch
 
 
@@ -28,3 +26,31 @@ third branch
 third branch
 third branch
 third branch
+=======
+
+
+
+
+
+
+
+
+
+
+
+4. Adding in second branch
+
+
+
+
+
+
+
+5 .Adding in second branch
+
+
+
+
+
+fsvsavsvsavsvd
+>>>>>>> main
