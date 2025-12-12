@@ -8,3 +8,7 @@ Learning Git and Github
 
 2. Learnig Lines with hands on experience ---> fouth commit changes(1st commit of secondBracnh)
 >>>>>>> 2114c09 (fouth commit changes(1st commit of secondBracnh))
+
+
+
+add some comments in main branch
